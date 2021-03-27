@@ -2,7 +2,7 @@
 
 CyberSec |      AI
 ------------ | -------------
-Cybersecbot | FaceDetection (coming)
+Cybersecbot | Face Detection (coming)
 LAN_PWN | Basic algorithms (coming)
 IPRanger | CinnamonAI (coming)
 BlueKit (coming)| N/A
