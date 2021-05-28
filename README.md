@@ -2,8 +2,8 @@
 
 CyberSec |      AI | Ethical hacking
 ------------ | ------------- | -------------
-Cybersecbot | Face Detection (coming) | Tryhackme write-ups (coming)
-LAN_PWN | Basic algorithms (coming) | Recourses (coming)
+Cybersecbot | Face Detection | Tryhackme write-ups (coming)
+LAN_PWN | Basic algorithms | Recourses (coming)
 IPRanger | CinnamonAI (coming) | Getting started in cyber sec (coming)
 BlueKit | N/A | Youtube (coming)
 DecimScanner | N/A | N/A
